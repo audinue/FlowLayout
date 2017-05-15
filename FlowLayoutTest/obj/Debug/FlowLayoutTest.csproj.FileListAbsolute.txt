@@ -1,0 +1,11 @@
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\bin\Debug\FlowLayoutTest.exe.config
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\bin\Debug\FlowLayoutTest.exe
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\bin\Debug\FlowLayoutTest.pdb
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\bin\Debug\FlowLayout.dll
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\bin\Debug\FlowLayout.pdb
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\obj\Debug\FlowLayoutTest.csprojResolveAssemblyReference.cache
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\obj\Debug\FlowLayoutTest.Form1.resources
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\obj\Debug\FlowLayoutTest.Properties.Resources.resources
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\obj\Debug\FlowLayoutTest.csproj.GenerateResource.Cache
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\obj\Debug\FlowLayoutTest.exe
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayoutTest\obj\Debug\FlowLayoutTest.pdb

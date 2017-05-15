@@ -1,0 +1,5 @@
+C:\Users\audinue\AppData\Local\Temporary Projects\FlowLayout\obj\Debug\FlowLayout.csprojResolveAssemblyReference.cache
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayout\bin\Debug\FlowLayout.dll
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayout\bin\Debug\FlowLayout.pdb
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayout\obj\Debug\FlowLayout.dll
+C:\Users\audinue\Documents\Visual Studio 2012\Projects\FlowLayout\FlowLayout\obj\Debug\FlowLayout.pdb
